@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dixitraghuvanshi60/adaptive-quiz-app/static/css/main.fe3a2755.css",
+    "main.js": "/Dixitraghuvanshi60/adaptive-quiz-app/static/js/main.ed8d0695.js",
+    "static/js/453.b91b396c.chunk.js": "/Dixitraghuvanshi60/adaptive-quiz-app/static/js/453.b91b396c.chunk.js",
+    "index.html": "/Dixitraghuvanshi60/adaptive-quiz-app/index.html",
+    "main.fe3a2755.css.map": "/Dixitraghuvanshi60/adaptive-quiz-app/static/css/main.fe3a2755.css.map",
+    "main.ed8d0695.js.map": "/Dixitraghuvanshi60/adaptive-quiz-app/static/js/main.ed8d0695.js.map",
+    "453.b91b396c.chunk.js.map": "/Dixitraghuvanshi60/adaptive-quiz-app/static/js/453.b91b396c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe3a2755.css",
+    "static/js/main.ed8d0695.js"
+  ]
+}
